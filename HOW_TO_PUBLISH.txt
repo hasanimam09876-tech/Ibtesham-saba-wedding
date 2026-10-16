@@ -1,0 +1,5 @@
+Netlify par publish karne ke liye:
+1. ZIP extract karein.
+2. Extracted folder upload karein: https://app.netlify.com/drop
+3. Poora folder upload karein, sirf index.html nahi, taaki PDF bhi site par available rahe.
+4. Netlify ka diya hua public link share karein.
